@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>eclipse-jee-mars</id>
+    <version>4.5.2</version>
+    <title>Eclipse IDE for Java EE Developers (Mars)</title>
+    <authors>Eclipse Foundation</authors>
+    <owners>Eclipse Foundation</owners>
+    <licenseUrl>http://www.eclipse.org/org/documents/epl-v10.php</licenseUrl>
+    <projectUrl>http://www.eclipse.org</projectUrl>
+    <iconUrl>https://cdn.rawgit.com/lukas.lisowski/chocolateypackages/master/eclipse/eclipse-jee-mars/eclipse-jee-mars.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>The essential tools for any Java developer.</description>
+    <summary>The essential tools for any Java developer, including a Java IDE, a CVS client, Git client, XML Editor, Mylyn, Maven integration and WindowBuilder</summary>
+    <releaseNotes />
+    <copyright />
+    <tags>eclipse java development mars</tags>
+    <dependencies>
+      <dependency id="binroot" />
+      <dependency id="7zip" />
+    </dependencies>
+  </metadata>
+</package>
